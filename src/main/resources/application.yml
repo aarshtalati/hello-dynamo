@@ -1,0 +1,9 @@
+amazon:
+  aws:
+    accesskey: fakeMyKeyId
+    region: us-east-2
+    secretKey: fakeSecretAccessKey
+  server:
+    port: 8888
+  dynamodb:
+    endpoint: 'http://localhost:8000'
